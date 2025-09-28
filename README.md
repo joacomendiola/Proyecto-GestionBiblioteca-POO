@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-red)
 ![POO](https://img.shields.io/badge/Paradigma-POO-blue)
-![CSV](https://img.shields.io/badge/Persistencia-Archivos-green)
+![Archivos](https://img.shields.io/badge/Persistencia-Archivos-green)
 ![Estado](https://img.shields.io/badge/Estado-Terminado-success)
 
 **Sistema de gestión bibliotecaria con persistencia en archivos desarrollado en Java**
@@ -14,8 +14,7 @@
 ---
 
 ## 📖 Descripción
-Sistema de gestión para bibliotecas que permite administrar **libros, usuarios, préstamos y multas**.  
-Desarrollado aplicando **POO y persistencia en archivos** para guardar y cargar datos automáticamente.
+Sistema de gestión para bibliotecas que permite administrar **libros, usuarios, préstamos y multas**. Desarrollado aplicando **POO y persistencia en archivos** para guardar y cargar datos automáticamente. Implementa diferentes tipos de usuarios con privilegios específicos y cálculo automático de multas por retrasos.
 
 ---
 
